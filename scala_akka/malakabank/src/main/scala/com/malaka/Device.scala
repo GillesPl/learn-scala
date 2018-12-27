@@ -30,20 +30,26 @@ class Device(context: ActorContext[Device.DeviceMessage], groupId: String, devic
 
   import Device._
 
-  //state
+  //temperature state of a device
   var lastTemperatureReading: Option[Double] = None
 
+  // logging for device actor startup
   context.log.info("Device actor {}-{} started", groupId, deviceId)
 
+  // the behavior implementation, this will listen on the messages received an act on them appropriately
   override def onMessage(msg: DeviceMessage): Behavior[DeviceMessage] = {
     msg match {
       case ReadTemperature(id, replyTo) ⇒
+        // do the acknowledge
         replyTo ! RespondTemperature(id, lastTemperatureReading) // respond to the actor ref with the temp that was read
         this
 
+        // Write implementation
       case RecordTemperature(id, value, replyTo) ⇒
         context.log.info("Recorded temperature reading {} with {}", value, id)
+        // update the state
         lastTemperatureReading = Some(value)
+        // do the acknowledge
         replyTo ! TemperatureRecorded(id)
         this
 
