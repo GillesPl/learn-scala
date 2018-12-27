@@ -10,7 +10,7 @@ lazy val akkaTypedVersion = "2.5.6"
 libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-actor" % "2.5.19",
   "com.typesafe.akka" %% "akka-actor-typed" % "2.5.19",
-  "org.scalatest" %% "scalatest" % "3.0.5" % "test",2
+  "org.scalatest" %% "scalatest" % "3.0.5" % "test",
 )
 libraryDependencies += "com.typesafe.akka" %% "akka-testkit" % "2.5.19" % Test
 libraryDependencies += "com.typesafe.akka" %% "akka-stream-typed" % "2.5.19"

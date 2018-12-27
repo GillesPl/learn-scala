@@ -5,6 +5,9 @@ import akka.actor.typed.PostStop
 import akka.actor.typed.Signal
 import akka.actor.typed.scaladsl.{AbstractBehavior, ActorContext, Behaviors}
 
+
+// this is the IOT supervisor
+// this will supervise the actors for devices and for the dashboard manager
 object IotSupervisor {
   def apply(): Behavior[Nothing] =
     Behaviors.setup[Nothing](context ⇒ new IotSupervisor(context))
