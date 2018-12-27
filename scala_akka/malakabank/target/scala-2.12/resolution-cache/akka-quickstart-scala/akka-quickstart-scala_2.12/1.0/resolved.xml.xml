@@ -4,7 +4,7 @@
 		module="akka-quickstart-scala_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20181227113505"
+		publication="20181227132357"
 	>
 		<description>
 		akka-quickstart-scala
@@ -34,8 +34,9 @@
 		<dependency org="org.scala-lang" name="scala-library" rev="2.12.6" conf="scala-tool->default,optional(default);compile->default(compile)"/>
 		<dependency org="com.typesafe.akka" name="akka-actor_2.12" rev="2.5.19" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.akka" name="akka-actor-typed_2.12" rev="2.5.19" conf="compile->default(compile)"/>
-		<dependency org="org.scalatest" name="scalatest_2.12" rev="3.0.5" conf="test->default(compile)"/>
 		<dependency org="com.typesafe.akka" name="akka-testkit_2.12" rev="2.5.19" conf="test->default(compile)"/>
+		<dependency org="com.typesafe.akka" name="akka-actor-testkit-typed_2.12" rev="2.5.19" conf="test->default(compile)"/>
 		<dependency org="com.typesafe.akka" name="akka-stream-typed_2.12" rev="2.5.19" conf="compile->default(compile)"/>
+		<dependency org="org.scalatest" name="scalatest_2.12" rev="3.0.5" conf="test->default(compile)"/>
 	</dependencies>
 </ivy-module>

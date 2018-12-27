@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec414dbf-3107-42eb-825b-3c3d9bdaf1dd" name="Default Changelist" comment="" />
+    <list default="true" id="ec414dbf-3107-42eb-825b-3c3d9bdaf1dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../malakabank/.idea/libraries/sbt__com_typesafe_akka_akka_actor_testkit_typed_2_12_2_5_19_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../malakabank/src/main/scala/com/malaka/DeviceGroup.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../malakabank/src/main/scala/com/malaka/DeviceGroupQuery.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../malakabank/src/main/scala/com/malaka/DeviceManager.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../malakabank/src/test/scala/com/malaka/DeviceGroupSpec.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/.idea/modules/akka-quickstart-scala.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/.idea/modules/akka-quickstart-scala.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/project/target/config-classes/$14aff8dc37da7ed6b1f1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/project/target/config-classes/$14aff8dc37da7ed6b1f1.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/project/target/config-classes/$14aff8dc37da7ed6b1f1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/project/target/config-classes/$680b3540044b6e4b00af$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/project/target/config-classes/$680b3540044b6e4b00af.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/project/target/config-classes/$680b3540044b6e4b00af.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/project/target/config-classes/$a277368c8ff06499f529$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/project/target/config-classes/$a277368c8ff06499f529.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/project/target/config-classes/$a277368c8ff06499f529.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/src/main/scala/com/malaka/AkkaQuickstart.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/src/main/scala/com/malaka/AkkaQuickstart.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/src/main/scala/com/malaka/Device.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/src/main/scala/com/malaka/Device.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/akka-quickstart-scala/akka-quickstart-scala$sources/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/akka-quickstart-scala/akka-quickstart-scala$sources/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/akka-quickstart-scala/akka-quickstart-scala$sources/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/akka-quickstart-scala/akka-quickstart-scala$sources/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/akka-quickstart-scala/akka-quickstart-scala_2.12/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/akka-quickstart-scala/akka-quickstart-scala_2.12/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/akka-quickstart-scala/akka-quickstart-scala_2.12/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/akka-quickstart-scala/akka-quickstart-scala_2.12/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala_2.12-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malakabank/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../malakabank/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
@@ -46,22 +102,31 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1161339973">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/AkkaQuickstart.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
+            <state relative-caret-position="342">
               <caret line="75" column="89" selection-start-line="75" selection-start-column="89" selection-end-line="75" selection-end-column="89" />
-              <folding>
-                <element signature="e#513#529#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -86,6 +151,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,8 +190,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,29 +269,23 @@
       <option name="presentableId" value="Default" />
       <updated>1545816533196</updated>
       <workItem from="1545816534553" duration="4786000" />
+      <workItem from="1545909425995" duration="1196000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4786000" />
+    <option name="totallyTimeSpent" value="5982000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33595988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" sideWeight="0.49840087" weight="0.32987553" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" sideWeight="0.49946696" weight="0.32987553" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50159913" side_tool="true" weight="0.32987553" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -234,17 +293,23 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="sbt" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49840087" weight="0.32987553" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" sideWeight="0.49946696" weight="0.32987553" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50159913" side_tool="true" weight="0.32987553" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="sbt" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,11 +321,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/AkkaQuickstart.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
+        <state relative-caret-position="342">
           <caret line="75" column="89" selection-start-line="75" selection-start-column="89" selection-end-line="75" selection-end-column="89" />
-          <folding>
-            <element signature="e#513#529#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
