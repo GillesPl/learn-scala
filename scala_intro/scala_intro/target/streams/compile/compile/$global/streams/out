@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/gilles/Documents/Trust1Team/_examples/scala_intro/scala_intro/src/main/scala/example/Main.scala:133:38: missing argument list for method foldLeft in trait LinearSeqOptimized[0m
+[0m[[0m[31merror[0m] [0m[0mUnapplied methods are only converted to functions when a function type is expected.[0m
+[0m[[0m[31merror[0m] [0m[0mYou can make this conversion explicit by writing `foldLeft _` or `foldLeft(_)(_)` instead of `foldLeft`.[0m
+[0m[[0m[31merror[0m] [0m[0m    val numberFunc = numbers.foldLeft(List[Int]())[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
