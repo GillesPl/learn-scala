@@ -2,22 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8233554-0cf8-4700-80ce-436396675d7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/example/ReactiveExample.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/com/example/AkkaQuickstart.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/example/AkkaQuickstart.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/FirstSteps$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/FirstSteps$.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/FirstSteps$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/FirstSteps$delayedInit$body.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/Reuseability$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/Reuseability$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/Reuseability$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/Reuseability$delayedInit$body.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstSteps2$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstSteps2$.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstSteps2$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstSteps2$delayedInit$body.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsTweet$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsTweet$Author$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsTweet$Author.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsTweet$Hashtag$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsTweet$Hashtag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsTweet$Tweet$$anonfun$hashtags$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsTweet$Tweet$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsTweet$Tweet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsTweet$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsTweet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsEmployees$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsEmployees$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsEmployees$Employee$$anonfun$getJobs$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsEmployees$Employee$$anonfun$getJobs$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsEmployees$Employee$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsEmployees$Employee$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsEmployees$Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsEmployees$Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsEmployees$JobDescription$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsEmployees$JobDescription$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsEmployees$JobDescription.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsEmployees$JobDescription.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsEmployees$Worker$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsEmployees$Worker$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsEmployees$Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsEmployees$Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsEmployees$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/firstStepsEmployees$delayedInit$body.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../scala_akka/malakabank/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala_akka/malakabank/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,27 +46,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="java" value="2" />
           <entry key="sbt" value="1" />
-          <entry key="scala" value="19" />
+          <entry key="scala" value="28" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="JAVA" value="2" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Scala" value="19" />
+          <entry key="Scala" value="28" />
           <entry key="sbt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="sbt" value="1" />
-          <entry key="scala" value="5242" />
+          <entry key="scala" value="7070" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Scala" value="5242" />
+          <entry key="Scala" value="7070" />
           <entry key="sbt" value="1" />
         </counts>
       </usages-collector>
@@ -73,49 +77,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/AkkaQuickstart.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/ReactiveExample.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="170" column="45" selection-start-line="170" selection-start-column="45" selection-end-line="170" selection-end-column="45" />
+            <state relative-caret-position="236">
+              <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
               <folding>
-                <element signature="e#37#63#0" expanded="true" />
+                <element signature="e#21#47#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/concurrent/duration/Duration.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="545" column="37" selection-start-line="545" selection-start-column="37" selection-end-line="545" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/concurrent/duration/package.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/srcs/akka-stream_2.12-2.5.19-sources.jar!/akka/stream/scaladsl/Source.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="100" column="66" selection-start-line="100" selection-start-column="66" selection-end-line="100" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/srcs/akka-stream_2.12-2.5.19-sources.jar!/akka/stream/scaladsl/Flow.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="121" column="90" lean-forward="true" selection-start-line="121" selection-start-column="90" selection-end-line="121" selection-end-column="90" />
             </state>
           </provider>
         </entry>
@@ -128,6 +96,9 @@
       <find>akkaTag</find>
       <find>Tweet</find>
       <find>Author</find>
+      <find>FileIO.toPath(Paths.get(filename)))(Keep.right)</find>
+      <find>run</find>
+      <find>thro</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -139,6 +110,7 @@
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/test/scala/com/example/AkkaQuickstartSpec.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/example/AkkaQuickstart.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/example/ReactiveExample.scala" />
       </list>
     </option>
   </component>
@@ -206,7 +178,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546001012883" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546008039150" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -223,9 +195,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Reuseability">
-    <configuration name="FirstSteps" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.FirstSteps" />
+  <component name="RunManager" selected="Application.ReactiveExample">
+    <configuration name="ReactiveExample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ReactiveExample" />
       <module name="akka-quickstart-scala" />
       <extension name="coverage">
         <pattern>
@@ -250,8 +222,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="firstSteps2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.firstSteps2" />
+    <configuration name="compare" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.compare" />
       <module name="akka-quickstart-scala" />
       <extension name="coverage">
         <pattern>
@@ -290,19 +262,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FirstSteps" />
-      <item itemvalue="Application.firstSteps2" />
       <item itemvalue="Application.firstStepsTweet" />
       <item itemvalue="Application.firstStepsEmployees" />
       <item itemvalue="Application.Reuseability" />
+      <item itemvalue="Application.ReactiveExample" />
+      <item itemvalue="Application.compare" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReactiveExample" />
+        <item itemvalue="Application.compare" />
         <item itemvalue="Application.Reuseability" />
         <item itemvalue="Application.firstStepsEmployees" />
         <item itemvalue="Application.firstStepsTweet" />
-        <item itemvalue="Application.firstSteps2" />
-        <item itemvalue="Application.FirstSteps" />
       </list>
     </recent_temporary>
   </component>
@@ -366,12 +338,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545989741043</updated>
-      <workItem from="1545989742310" duration="7458000" />
+      <workItem from="1545989742310" duration="12843000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7458000" />
+    <option name="totallyTimeSpent" value="12843000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -391,7 +363,7 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21565408" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21565408" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" weight="0.37106383" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" weight="0.3293617" />
@@ -402,7 +374,7 @@
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24851064" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29531914" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -451,13 +423,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/Predef.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="186" column="24" selection-start-line="186" selection-start-column="14" selection-end-line="186" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/factorial2.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -475,17 +440,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/srcs/akka-stream_2.12-2.5.19-sources.jar!/akka/stream/scaladsl/Materialization.scala">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        <state relative-caret-position="287">
+          <caret line="1231" column="58" selection-start-line="1231" selection-start-column="58" selection-end-line="1231" selection-end-column="58" />
+          <folding>
+            <element signature="e#47538#47539#0" expanded="true" />
+            <element signature="e#47602#47603#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/srcs/akka-stream_2.12-2.5.19-sources.jar!/akka/stream/scaladsl/Source.scala">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="100" column="66" selection-start-line="100" selection-start-column="66" selection-end-line="100" selection-end-column="66" />
+        <state relative-caret-position="248">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -503,19 +472,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/srcs/akka-stream_2.12-2.5.19-sources.jar!/akka/stream/scaladsl/Source.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="100" column="66" selection-start-line="100" selection-start-column="66" selection-end-line="100" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/Predef.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="283" selection-start-line="283" selection-end-line="283" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/srcs/akka-stream_2.12-2.5.19-sources.jar!/akka/stream/scaladsl/Graph.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="1481" column="12" selection-start-line="1481" selection-start-column="12" selection-end-line="1481" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/srcs/akka-stream_2.12-2.5.19-sources.jar!/akka/stream/UniformFanOutShape.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="33" column="53" lean-forward="true" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/srcs/akka-stream_2.12-2.5.19-sources.jar!/akka/stream/scaladsl/Materialization.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/srcs/akka-stream_2.12-2.5.19-sources.jar!/akka/stream/OverflowStrategy.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="99" column="101" lean-forward="true" selection-start-line="99" selection-start-column="101" selection-end-line="99" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/srcs/akka-stream_2.12-2.5.19-sources.jar!/akka/stream/scaladsl/Flow.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="121" column="90" lean-forward="true" selection-start-line="121" selection-start-column="90" selection-end-line="121" selection-end-column="90" />
+        <state relative-caret-position="184">
+          <caret line="561" column="22" lean-forward="true" selection-start-line="561" selection-start-column="22" selection-end-line="561" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/AkkaQuickstart.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="170" column="45" selection-start-line="170" selection-start-column="45" selection-end-line="170" selection-end-column="45" />
+        <state relative-caret-position="512">
+          <caret line="147" column="24" lean-forward="true" selection-start-line="146" selection-start-column="4" selection-end-line="147" selection-end-column="24" />
           <folding>
             <element signature="e#37#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/ReactiveExample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
+          <folding>
+            <element signature="e#21#47#0" expanded="true" />
           </folding>
         </state>
       </provider>
