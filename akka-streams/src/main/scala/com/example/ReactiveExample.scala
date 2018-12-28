@@ -71,8 +71,6 @@ object ReactiveExample extends App {
     .throttle(10, FiniteDuration(1, TimeUnit.SECONDS))
     .runForeach(println)
 
-  val writeWorker= Sink.foreach(println)
-  val writeHashtags = Sink.foreach(println)
   val g = RunnableGraph.fromGraph(GraphDSL.create() { implicit b =>
     import GraphDSL.Implicits._
 
@@ -80,8 +78,8 @@ object ReactiveExample extends App {
     // we gebruiken de impliciete graph builder om via de -> operators de graph op tebouwen
     val bcast = b.add(Broadcast[Employee](2))
     employees ~> bcast.in
-    bcast.out(0) ~> Flow[Employee].map(_.worker) ~> writeWorker
-    bcast.out(1) ~> Flow[Employee].mapConcat(_.getDevelopers.toList) ~> writeHashtags
+    bcast.out(0) ~> Flow[Employee].map(_.worker) ~> Sink.foreach(println)
+    bcast.out(1) ~> Flow[Employee].mapConcat(_.getDevelopers.toList) ~> Sink.foreach(println)
     // we returnen een closed shape ==> een volledig gesloten graph / of volledig geconnecteerde graph
     ClosedShape
   })
